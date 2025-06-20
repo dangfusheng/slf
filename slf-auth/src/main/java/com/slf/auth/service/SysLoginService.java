@@ -22,7 +22,7 @@ import com.slf.system.api.model.LoginUser;
 /**
  * 登录校验方法
  * 
- * @author slf
+ * @author dangfusheng
  */
 @Component
 public class SysLoginService

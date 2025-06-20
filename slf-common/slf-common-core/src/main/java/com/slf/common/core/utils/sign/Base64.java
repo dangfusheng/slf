@@ -3,7 +3,7 @@ package com.slf.common.core.utils.sign;
 /**
  * Base64工具类
  * 
- * @author slf
+ * @author dangfusheng
  */
 public final class Base64
 {

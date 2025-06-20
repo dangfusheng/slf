@@ -5,7 +5,7 @@ import com.slf.common.core.exception.base.BaseException;
 /**
  * 用户信息异常类
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class UserException extends BaseException
 {

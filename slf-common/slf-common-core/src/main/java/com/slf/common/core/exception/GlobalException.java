@@ -3,7 +3,7 @@ package com.slf.common.core.exception;
 /**
  * 全局异常
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class GlobalException extends RuntimeException
 {

@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * XSS跨站脚本配置
  * 
- * @author slf
+ * @author dangfusheng
  */
 @Configuration
 @RefreshScope

@@ -10,7 +10,7 @@ import com.slf.common.core.exception.UtilException;
 /**
  * 提供通用唯一识别码（universally unique identifier）（UUID）实现
  *
- * @author slf
+ * @author dangfusheng
  */
 public final class UUID implements java.io.Serializable, Comparable<UUID>
 {

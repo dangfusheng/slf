@@ -27,7 +27,7 @@ import com.slf.system.api.domain.SysDept;
 /**
  * 部门信息
  * 
- * @author slf
+ * @author dangfusheng
  */
 @RestController
 @RequestMapping("/dept")

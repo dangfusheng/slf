@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 /**
  * 公告 服务层实现
  * 
- * @author slf
+ * @author dangfusheng
  */
 @Service
 public class SysNoticeServiceImpl implements ISysNoticeService

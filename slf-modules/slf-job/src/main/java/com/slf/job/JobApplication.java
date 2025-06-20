@@ -8,7 +8,7 @@ import com.slf.common.security.annotation.EnableRyFeignClients;
 /**
  * 定时任务
  * 
- * @author slf
+ * @author dangfusheng
  */
 @EnableCustomConfig
 @EnableRyFeignClients   

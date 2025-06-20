@@ -22,7 +22,7 @@ import com.slf.system.api.domain.SysDictType;
 /**
  * 字典 业务层处理
  * 
- * @author slf
+ * @author dangfusheng
  */
 @Service
 public class SysDictTypeServiceImpl implements ISysDictTypeService

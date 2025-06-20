@@ -21,7 +21,7 @@ import com.slf.system.api.model.LoginUser;
 /**
  * token 控制
  * 
- * @author slf
+ * @author dangfusheng
  */
 @RestController
 public class TokenController

@@ -8,7 +8,7 @@ import com.slf.common.core.utils.StringUtils;
 /**
  * 操作消息提醒
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class AjaxResult extends HashMap<String, Object>
 {

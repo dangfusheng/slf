@@ -7,7 +7,7 @@ import com.slf.system.domain.SysUserRole;
 /**
  * 用户与角色关联表 数据层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface SysUserRoleMapper
 {

@@ -12,7 +12,7 @@ import com.slf.common.core.utils.StringUtils;
 /**
  * 类型转换器
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class Convert
 {

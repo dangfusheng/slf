@@ -26,7 +26,7 @@ import com.slf.common.security.utils.SecurityUtils;
 /**
  * 菜单信息
  * 
- * @author slf
+ * @author dangfusheng
  */
 @RestController
 @RequestMapping("/menu")

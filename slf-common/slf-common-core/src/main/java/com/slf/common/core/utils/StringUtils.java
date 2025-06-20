@@ -10,7 +10,7 @@ import com.slf.common.core.text.StrFormatter;
 /**
  * 字符串工具类
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class StringUtils extends org.apache.commons.lang3.StringUtils
 {

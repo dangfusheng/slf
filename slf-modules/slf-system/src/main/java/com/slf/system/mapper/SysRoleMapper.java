@@ -6,7 +6,7 @@ import com.slf.system.api.domain.SysRole;
 /**
  * 角色表 数据层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface SysRoleMapper
 {

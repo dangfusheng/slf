@@ -27,7 +27,7 @@ import com.slf.system.api.domain.SysDictType;
 /**
  * 数据字典信息
  * 
- * @author slf
+ * @author dangfusheng
  */
 @RestController
 @RequestMapping("/dict/type")

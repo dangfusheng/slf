@@ -7,7 +7,7 @@ import com.slf.common.core.web.domain.AjaxResult;
 /**
  * 验证码处理
  *
- * @author slf
+ * @author dangfusheng
  */
 public interface ValidateCodeService
 {

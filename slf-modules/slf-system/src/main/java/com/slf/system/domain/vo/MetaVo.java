@@ -5,7 +5,7 @@ import com.slf.common.core.utils.StringUtils;
 /**
  * 路由显示信息
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class MetaVo
 {

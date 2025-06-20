@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 放行白名单配置
  * 
- * @author slf
+ * @author dangfusheng
  */
 @Configuration
 @RefreshScope

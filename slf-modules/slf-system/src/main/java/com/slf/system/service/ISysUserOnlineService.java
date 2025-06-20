@@ -6,7 +6,7 @@ import com.slf.system.domain.SysUserOnline;
 /**
  * 在线用户 服务层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface ISysUserOnlineService
 {

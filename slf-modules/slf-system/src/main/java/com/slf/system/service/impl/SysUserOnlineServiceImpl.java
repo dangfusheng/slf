@@ -9,7 +9,7 @@ import com.slf.system.api.model.LoginUser;
 /**
  * 在线用户 服务层处理
  * 
- * @author slf
+ * @author dangfusheng
  */
 @Service
 public class SysUserOnlineServiceImpl implements ISysUserOnlineService

@@ -12,7 +12,7 @@ import com.slf.gen.config.GenConfig;
 /**
  * 代码生成器 工具类
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class GenUtils
 {

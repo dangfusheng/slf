@@ -11,7 +11,7 @@ import com.slf.system.service.ISysOperLogService;
 /**
  * 操作日志 服务层处理
  * 
- * @author slf
+ * @author dangfusheng
  */
 @Service
 public class SysOperLogServiceImpl implements ISysOperLogService

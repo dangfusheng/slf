@@ -6,7 +6,7 @@ import com.slf.system.api.domain.SysDictData;
 /**
  * 字典 业务层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface ISysDictDataService
 {

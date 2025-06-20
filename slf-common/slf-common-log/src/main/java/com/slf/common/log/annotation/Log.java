@@ -11,7 +11,7 @@ import com.slf.common.log.enums.OperatorType;
 /**
  * 自定义操作日志记录注解
  * 
- * @author slf
+ * @author dangfusheng
  *
  */
 @Target({ ElementType.PARAMETER, ElementType.METHOD })

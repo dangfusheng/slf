@@ -18,7 +18,7 @@ import com.slf.system.service.ISysPermissionService;
 /**
  * 用户权限处理
  * 
- * @author slf
+ * @author dangfusheng
  */
 @Service
 public class SysPermissionServiceImpl implements ISysPermissionService

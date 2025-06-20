@@ -24,7 +24,7 @@ import com.slf.gateway.config.properties.CaptchaProperties;
 /**
  * 验证码实现处理
  *
- * @author slf
+ * @author dangfusheng
  */
 @Service
 public class ValidateCodeServiceImpl implements ValidateCodeService

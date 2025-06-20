@@ -7,7 +7,7 @@ import com.slf.gen.domain.GenTable;
 /**
  * 业务 服务层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface IGenTableService
 {

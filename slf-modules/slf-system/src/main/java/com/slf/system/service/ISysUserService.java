@@ -6,7 +6,7 @@ import com.slf.system.api.domain.SysUser;
 /**
  * 用户 业务层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface ISysUserService
 {

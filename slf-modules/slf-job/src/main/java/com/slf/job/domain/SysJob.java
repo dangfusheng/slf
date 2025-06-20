@@ -17,7 +17,7 @@ import com.slf.common.core.web.domain.BaseEntity;
 /**
  * 定时任务调度表 sys_job
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class SysJob extends BaseEntity
 {

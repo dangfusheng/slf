@@ -6,7 +6,7 @@ import com.slf.system.domain.SysRoleMenu;
 /**
  * 角色与菜单关联表 数据层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface SysRoleMenuMapper
 {

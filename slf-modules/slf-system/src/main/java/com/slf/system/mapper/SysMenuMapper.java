@@ -7,7 +7,7 @@ import com.slf.system.domain.SysMenu;
 /**
  * 菜单表 数据层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface SysMenuMapper
 {

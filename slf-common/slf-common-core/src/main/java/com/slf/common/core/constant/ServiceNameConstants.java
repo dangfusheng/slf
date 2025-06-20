@@ -3,7 +3,7 @@ package com.slf.common.core.constant;
 /**
  * 服务名称
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class ServiceNameConstants
 {

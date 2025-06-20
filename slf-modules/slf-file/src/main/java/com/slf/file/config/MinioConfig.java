@@ -8,7 +8,7 @@ import io.minio.MinioClient;
 /**
  * Minio 配置信息
  *
- * @author slf
+ * @author dangfusheng
  */
 @Configuration
 @ConfigurationProperties(prefix = "minio")

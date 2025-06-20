@@ -3,7 +3,7 @@ package com.slf.common.core.constant;
 /**
  * 权限相关通用常量
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class SecurityConstants
 {

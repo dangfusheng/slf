@@ -3,7 +3,7 @@ package com.slf.common.log.enums;
 /**
  * 操作状态
  * 
- * @author slf
+ * @author dangfusheng
  *
  */
 public enum BusinessStatus

@@ -7,7 +7,7 @@ import com.slf.system.api.model.LoginUser;
 /**
  * Token 权限验证工具类
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class AuthUtil
 {

@@ -12,7 +12,7 @@ import com.slf.common.core.web.domain.BaseEntity;
 /**
  * 菜单权限表 sys_menu
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class SysMenu extends BaseEntity
 {

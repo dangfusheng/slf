@@ -17,7 +17,7 @@ import com.slf.common.core.utils.StringUtils;
 /**
  * 模板工具类
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class VelocityUtils
 {

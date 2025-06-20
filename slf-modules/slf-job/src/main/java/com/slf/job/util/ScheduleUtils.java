@@ -21,7 +21,7 @@ import com.slf.job.domain.SysJob;
 /**
  * 定时任务工具类
  * 
- * @author slf
+ * @author dangfusheng
  *
  */
 public class ScheduleUtils

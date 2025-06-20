@@ -66,7 +66,7 @@ import com.slf.common.core.utils.file.ImageUtils;
 /**
  * Excel相关处理
  *
- * @author slf
+ * @author dangfusheng
  */
 public class ExcelUtil<T>
 {

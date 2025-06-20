@@ -5,7 +5,7 @@ import com.slf.common.core.utils.StringUtils;
 /**
  * 转义和反转义工具类
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class EscapeUtil
 {

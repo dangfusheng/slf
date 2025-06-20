@@ -8,7 +8,7 @@ import com.slf.job.domain.SysJob;
 /**
  * 定时任务处理（禁止并发执行）
  * 
- * @author slf
+ * @author dangfusheng
  *
  */
 @DisallowConcurrentExecution

@@ -13,7 +13,7 @@ import com.slf.common.core.utils.file.FileTypeUtils;
 /**
  * FastDFS 文件存储
  *
- * @author slf
+ * @author dangfusheng
  */
 @Service
 public class FastDfsSysFileServiceImpl implements ISysFileService

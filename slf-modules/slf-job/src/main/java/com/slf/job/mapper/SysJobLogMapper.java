@@ -6,7 +6,7 @@ import com.slf.job.domain.SysJobLog;
 /**
  * 调度任务日志信息 数据层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface SysJobLogMapper
 {

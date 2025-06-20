@@ -8,7 +8,7 @@ import com.slf.system.domain.SysUserRole;
 /**
  * 角色业务层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface ISysRoleService
 {

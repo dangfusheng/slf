@@ -9,7 +9,7 @@ import com.slf.common.core.utils.StringUtils;
 /**
  * 获取IP方法
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class IpUtils
 {

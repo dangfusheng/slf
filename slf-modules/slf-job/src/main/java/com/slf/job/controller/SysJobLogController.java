@@ -22,7 +22,7 @@ import com.slf.job.service.ISysJobLogService;
 /**
  * 调度日志操作处理
  * 
- * @author slf
+ * @author dangfusheng
  */
 @RestController
 @RequestMapping("/job/log")

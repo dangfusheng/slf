@@ -15,7 +15,7 @@ import com.slf.common.core.domain.R;
 /**
  * 文件服务
  * 
- * @author slf
+ * @author dangfusheng
  */
 @FeignClient(contextId = "remoteFileService", value = ServiceNameConstants.FILE_SERVICE, fallbackFactory = RemoteFileFallbackFactory.class)
 public interface RemoteFileService

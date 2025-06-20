@@ -32,7 +32,7 @@ import com.slf.gen.service.IGenTableService;
 /**
  * 代码生成 操作处理
  * 
- * @author slf
+ * @author dangfusheng
  */
 @RequestMapping("/gen")
 @RestController

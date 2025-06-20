@@ -6,7 +6,7 @@ import com.slf.system.api.domain.SysDictType;
 /**
  * 字典表 数据层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface SysDictTypeMapper
 {

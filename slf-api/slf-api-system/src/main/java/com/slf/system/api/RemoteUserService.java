@@ -17,7 +17,7 @@ import com.slf.system.api.model.LoginUser;
 /**
  * 用户服务
  * 
- * @author slf
+ * @author dangfusheng
  */
 @FeignClient(contextId = "remoteUserService", value = ServiceNameConstants.SYSTEM_SERVICE, fallbackFactory = RemoteUserFallbackFactory.class)
 public interface RemoteUserService

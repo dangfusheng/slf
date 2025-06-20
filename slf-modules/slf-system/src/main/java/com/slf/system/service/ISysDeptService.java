@@ -7,7 +7,7 @@ import com.slf.system.domain.vo.TreeSelect;
 /**
  * 部门管理 服务层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface ISysDeptService
 {

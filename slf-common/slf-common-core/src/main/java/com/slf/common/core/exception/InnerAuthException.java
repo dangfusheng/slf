@@ -3,7 +3,7 @@ package com.slf.common.core.exception;
 /**
  * 内部认证异常
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class InnerAuthException extends RuntimeException
 {

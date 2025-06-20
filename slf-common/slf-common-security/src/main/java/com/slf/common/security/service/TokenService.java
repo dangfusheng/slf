@@ -22,7 +22,7 @@ import com.slf.system.api.model.LoginUser;
 /**
  * token验证处理
  * 
- * @author slf
+ * @author dangfusheng
  */
 @Component
 public class TokenService

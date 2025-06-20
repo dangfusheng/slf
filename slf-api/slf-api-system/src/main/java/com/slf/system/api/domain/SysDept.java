@@ -13,7 +13,7 @@ import com.slf.common.core.web.domain.BaseEntity;
 /**
  * 部门表 sys_dept
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class SysDept extends BaseEntity
 {

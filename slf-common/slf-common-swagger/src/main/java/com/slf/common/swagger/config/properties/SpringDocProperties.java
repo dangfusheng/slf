@@ -8,7 +8,7 @@ import io.swagger.v3.oas.models.info.License;
 /**
  * Swagger 配置属性
  *
- * @author slf
+ * @author dangfusheng
  */
 @ConfigurationProperties(prefix = "springdoc")
 public class SpringDocProperties

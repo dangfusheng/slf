@@ -3,7 +3,7 @@ package com.slf.common.log.enums;
 /**
  * 业务操作类型
  * 
- * @author slf
+ * @author dangfusheng
  */
 public enum BusinessType
 {

@@ -3,7 +3,7 @@ package com.slf.common.core.constant;
 /**
  * 用户常量信息
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class UserConstants
 {

@@ -9,7 +9,7 @@ import com.slf.common.core.utils.StringUtils;
 /**
  * 自定义xss校验注解实现
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class XssValidator implements ConstraintValidator<Xss, String>
 {

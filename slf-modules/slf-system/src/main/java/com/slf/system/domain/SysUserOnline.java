@@ -3,7 +3,7 @@ package com.slf.system.domain;
 /**
  * 当前在线会话
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class SysUserOnline
 {

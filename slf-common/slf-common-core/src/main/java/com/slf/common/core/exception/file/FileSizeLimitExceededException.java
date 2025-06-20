@@ -3,7 +3,7 @@ package com.slf.common.core.exception.file;
 /**
  * 文件名大小限制异常类
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class FileSizeLimitExceededException extends FileException
 {

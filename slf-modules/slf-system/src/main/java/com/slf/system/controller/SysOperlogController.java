@@ -24,7 +24,7 @@ import com.slf.system.service.ISysOperLogService;
 /**
  * 操作日志记录
  * 
- * @author slf
+ * @author dangfusheng
  */
 @RestController
 @RequestMapping("/operlog")

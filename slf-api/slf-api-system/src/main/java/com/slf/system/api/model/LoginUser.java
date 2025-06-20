@@ -7,7 +7,7 @@ import com.slf.system.api.domain.SysUser;
 /**
  * 用户信息
  *
- * @author slf
+ * @author dangfusheng
  */
 public class LoginUser implements Serializable
 {

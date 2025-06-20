@@ -3,7 +3,7 @@ package com.slf.common.core.exception.auth;
 /**
  * 未能通过的登录认证异常
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class NotLoginException extends RuntimeException
 {

@@ -5,7 +5,7 @@ import com.slf.common.core.utils.DateUtils;
 import com.slf.common.core.utils.StringUtils;
 
 /**
- * @author slf 序列生成类
+ * @author dangfusheng 序列生成类
  */
 public class Seq
 {

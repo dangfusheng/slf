@@ -9,7 +9,7 @@ import com.slf.common.core.web.domain.BaseEntity;
 /**
  * 系统访问记录表 sys_logininfor
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class SysLogininfor extends BaseEntity
 {

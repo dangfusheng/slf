@@ -30,7 +30,7 @@ import com.slf.system.api.domain.SysDictData;
 /**
  * 数据字典信息
  * 
- * @author slf
+ * @author dangfusheng
  */
 @RestController
 @RequestMapping("/dict/data")

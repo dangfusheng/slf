@@ -12,7 +12,7 @@ import com.slf.system.api.domain.SysDictData;
 /**
  * 字典工具类
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class DictUtils
 {

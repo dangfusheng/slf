@@ -11,7 +11,7 @@ import com.slf.common.core.web.domain.BaseEntity;
 /**
  * 参数配置表 sys_config
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class SysConfig extends BaseEntity
 {

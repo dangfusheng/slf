@@ -32,7 +32,7 @@ import com.slf.job.util.ScheduleUtils;
 /**
  * 调度任务信息操作处理
  * 
- * @author slf
+ * @author dangfusheng
  */
 @RestController
 @RequestMapping("/job")

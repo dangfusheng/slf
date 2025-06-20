@@ -3,7 +3,7 @@ package com.slf.common.core.constant;
 /**
  * 通用常量信息
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class Constants
 {

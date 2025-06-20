@@ -3,7 +3,7 @@ package com.slf.common.core.exception;
 /**
  * 检查异常
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class CheckedException extends RuntimeException
 {

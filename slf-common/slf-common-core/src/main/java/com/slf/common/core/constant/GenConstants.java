@@ -3,7 +3,7 @@ package com.slf.common.core.constant;
 /**
  * 代码生成通用常量
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class GenConstants
 {

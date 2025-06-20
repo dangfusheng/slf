@@ -13,7 +13,7 @@ import com.slf.system.api.domain.SysUser;
 /**
  * 登录密码方法
  * 
- * @author slf
+ * @author dangfusheng
  */
 @Component
 public class SysPasswordService

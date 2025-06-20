@@ -13,7 +13,7 @@ import com.slf.common.core.web.domain.BaseEntity;
 /**
  * 角色表 sys_role
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class SysRole extends BaseEntity
 {

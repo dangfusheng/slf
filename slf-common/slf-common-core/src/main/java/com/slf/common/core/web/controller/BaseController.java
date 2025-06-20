@@ -23,7 +23,7 @@ import com.slf.common.core.web.page.TableSupport;
 /**
  * web层通用数据处理
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class BaseController
 {

@@ -3,7 +3,7 @@ package com.slf.common.core.constant;
 /**
  * 返回状态码
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class HttpStatus
 {

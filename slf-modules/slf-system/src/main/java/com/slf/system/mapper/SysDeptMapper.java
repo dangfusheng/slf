@@ -7,7 +7,7 @@ import com.slf.system.api.domain.SysDept;
 /**
  * 部门管理 数据层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface SysDeptMapper
 {

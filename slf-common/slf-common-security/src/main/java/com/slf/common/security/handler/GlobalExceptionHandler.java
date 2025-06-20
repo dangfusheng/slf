@@ -24,7 +24,7 @@ import com.slf.common.core.web.domain.AjaxResult;
 /**
  * 全局异常处理器
  *
- * @author slf
+ * @author dangfusheng
  */
 @RestControllerAdvice
 public class GlobalExceptionHandler

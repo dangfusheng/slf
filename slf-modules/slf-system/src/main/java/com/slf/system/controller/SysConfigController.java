@@ -27,7 +27,7 @@ import com.slf.common.security.utils.SecurityUtils;
 /**
  * 参数配置 信息操作处理
  * 
- * @author slf
+ * @author dangfusheng
  */
 @RestController
 @RequestMapping("/config")

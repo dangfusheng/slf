@@ -12,7 +12,7 @@ import com.slf.common.core.web.domain.BaseEntity;
 /**
  * 字典数据表 sys_dict_data
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class SysDictData extends BaseEntity
 {

@@ -10,7 +10,7 @@ import com.slf.common.core.xss.Xss;
 /**
  * 通知公告表 sys_notice
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class SysNotice extends BaseEntity
 {

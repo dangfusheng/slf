@@ -19,7 +19,7 @@ import com.slf.common.redis.service.RedisService;
 /**
  * 参数配置 服务层实现
  * 
- * @author slf
+ * @author dangfusheng
  */
 @Service
 public class SysConfigServiceImpl implements ISysConfigService

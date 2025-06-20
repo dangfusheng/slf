@@ -41,7 +41,7 @@ import com.slf.gen.util.VelocityUtils;
 /**
  * 业务 服务层实现
  * 
- * @author slf
+ * @author dangfusheng
  */
 @Service
 public class GenTableServiceImpl implements IGenTableService

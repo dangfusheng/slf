@@ -16,7 +16,7 @@ import com.slf.common.sensitive.enums.DesensitizedType;
 /**
  * 数据脱敏序列化过滤
  *
- * @author slf
+ * @author dangfusheng
  */
 public class SensitiveJsonSerializer extends JsonSerializer<String> implements ContextualSerializer
 {

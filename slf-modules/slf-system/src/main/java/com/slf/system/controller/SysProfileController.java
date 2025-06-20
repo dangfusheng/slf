@@ -32,7 +32,7 @@ import com.slf.system.api.model.LoginUser;
 /**
  * 个人信息 业务处理
  * 
- * @author slf
+ * @author dangfusheng
  */
 @RestController
 @RequestMapping("/user/profile")

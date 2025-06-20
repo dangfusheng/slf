@@ -3,7 +3,7 @@ package com.slf.common.core.constant;
 /**
  * Token的Key常量
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class TokenConstants
 {

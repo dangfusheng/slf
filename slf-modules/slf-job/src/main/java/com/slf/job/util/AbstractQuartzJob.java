@@ -18,7 +18,7 @@ import com.slf.job.domain.SysJobLog;
 /**
  * 抽象quartz调用
  *
- * @author slf
+ * @author dangfusheng
  */
 public abstract class AbstractQuartzJob implements Job
 {

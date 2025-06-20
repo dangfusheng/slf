@@ -3,7 +3,7 @@ package com.slf.common.core.constant;
 /**
  * 任务调度通用常量
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class ScheduleConstants
 {

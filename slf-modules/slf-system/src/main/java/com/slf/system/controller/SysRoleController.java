@@ -32,7 +32,7 @@ import com.slf.system.api.domain.SysUser;
 /**
  * 角色信息
  * 
- * @author slf
+ * @author dangfusheng
  */
 @RestController
 @RequestMapping("/role")

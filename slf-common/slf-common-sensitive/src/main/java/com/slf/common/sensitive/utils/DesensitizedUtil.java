@@ -5,7 +5,7 @@ import com.slf.common.core.utils.StringUtils;
 /**
  * 脱敏工具类
  *
- * @author slf
+ * @author dangfusheng
  */
 public class DesensitizedUtil
 {

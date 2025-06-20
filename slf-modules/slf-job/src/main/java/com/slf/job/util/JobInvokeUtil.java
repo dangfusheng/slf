@@ -11,7 +11,7 @@ import com.slf.job.domain.SysJob;
 /**
  * 任务执行工具
  *
- * @author slf
+ * @author dangfusheng
  */
 public class JobInvokeUtil
 {

@@ -6,7 +6,7 @@ import com.slf.system.domain.SysNotice;
 /**
  * 公告 服务层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface ISysNoticeService
 {

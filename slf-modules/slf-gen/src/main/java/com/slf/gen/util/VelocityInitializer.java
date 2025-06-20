@@ -7,7 +7,7 @@ import com.slf.common.core.constant.Constants;
 /**
  * VelocityEngine工厂
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class VelocityInitializer
 {

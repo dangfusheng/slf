@@ -6,7 +6,7 @@ import com.slf.gen.domain.GenTableColumn;
 /**
  * 业务字段 数据层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface GenTableColumnMapper
 {

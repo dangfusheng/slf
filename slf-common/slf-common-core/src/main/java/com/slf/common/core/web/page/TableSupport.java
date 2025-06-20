@@ -6,7 +6,7 @@ import com.slf.common.core.utils.ServletUtils;
 /**
  * 表格数据处理
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class TableSupport
 {

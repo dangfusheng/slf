@@ -3,7 +3,7 @@ package com.slf.common.core.utils.uuid;
 /**
  * ID生成器工具类
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class IdUtils
 {

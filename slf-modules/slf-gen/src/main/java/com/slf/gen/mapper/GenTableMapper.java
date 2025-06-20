@@ -6,7 +6,7 @@ import com.slf.gen.domain.GenTable;
 /**
  * 业务 数据层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface GenTableMapper
 {

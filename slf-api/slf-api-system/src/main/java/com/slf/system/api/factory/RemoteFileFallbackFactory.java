@@ -12,7 +12,7 @@ import com.slf.system.api.RemoteFileService;
 /**
  * 文件服务降级处理
  * 
- * @author slf
+ * @author dangfusheng
  */
 @Component
 public class RemoteFileFallbackFactory implements FallbackFactory<RemoteFileService>

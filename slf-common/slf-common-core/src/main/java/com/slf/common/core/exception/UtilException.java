@@ -3,7 +3,7 @@ package com.slf.common.core.exception;
 /**
  * 工具类异常
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class UtilException extends RuntimeException
 {

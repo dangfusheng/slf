@@ -8,7 +8,7 @@ import com.slf.job.domain.SysJob;
 /**
  * 定时任务调度信息信息 服务层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface ISysJobService
 {

@@ -27,7 +27,7 @@ import com.slf.system.api.model.LoginUser;
 /**
  * 在线用户监控
  * 
- * @author slf
+ * @author dangfusheng
  */
 @RestController
 @RequestMapping("/online")

@@ -3,7 +3,7 @@ package com.slf.common.core.exception;
 /**
  * 验证码错误异常类
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class CaptchaException extends RuntimeException
 {

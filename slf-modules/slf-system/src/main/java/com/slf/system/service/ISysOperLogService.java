@@ -6,7 +6,7 @@ import com.slf.system.api.domain.SysOperLog;
 /**
  * 操作日志 服务层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface ISysOperLogService
 {

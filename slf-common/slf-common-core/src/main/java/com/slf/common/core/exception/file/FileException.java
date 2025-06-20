@@ -5,7 +5,7 @@ import com.slf.common.core.exception.base.BaseException;
 /**
  * 文件信息异常类
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class FileException extends BaseException
 {

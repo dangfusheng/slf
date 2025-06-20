@@ -14,7 +14,7 @@ import com.slf.common.security.annotation.InnerAuth;
 /**
  * 内部服务调用验证处理
  * 
- * @author slf
+ * @author dangfusheng
  */
 @Aspect
 @Component

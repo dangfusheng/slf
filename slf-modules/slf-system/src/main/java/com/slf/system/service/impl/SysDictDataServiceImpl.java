@@ -12,7 +12,7 @@ import com.slf.system.api.domain.SysDictData;
 /**
  * 字典 业务层处理
  * 
- * @author slf
+ * @author dangfusheng
  */
 @Service
 public class SysDictDataServiceImpl implements ISysDictDataService

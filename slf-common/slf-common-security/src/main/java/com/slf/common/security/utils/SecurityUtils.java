@@ -12,7 +12,7 @@ import com.slf.system.api.model.LoginUser;
 /**
  * 权限获取工具类
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class SecurityUtils
 {

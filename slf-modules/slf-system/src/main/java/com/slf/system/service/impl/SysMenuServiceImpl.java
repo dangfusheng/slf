@@ -29,7 +29,7 @@ import com.slf.system.api.domain.SysUser;
 /**
  * 菜单 业务层处理
  * 
- * @author slf
+ * @author dangfusheng
  */
 @Service
 public class SysMenuServiceImpl implements ISysMenuService

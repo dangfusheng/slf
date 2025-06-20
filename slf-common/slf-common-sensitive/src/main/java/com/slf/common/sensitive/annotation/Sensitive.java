@@ -12,7 +12,7 @@ import com.slf.common.sensitive.enums.DesensitizedType;
 /**
  * 数据脱敏注解
  *
- * @author slf
+ * @author dangfusheng
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.FIELD)

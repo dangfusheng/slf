@@ -47,7 +47,7 @@ import com.slf.system.service.ISysPostService;
 /**
  * 用户信息
  * 
- * @author slf
+ * @author dangfusheng
  */
 @RestController
 @RequestMapping("/user")

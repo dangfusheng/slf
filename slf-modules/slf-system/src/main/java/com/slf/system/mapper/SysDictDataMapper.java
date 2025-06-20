@@ -7,7 +7,7 @@ import com.slf.system.api.domain.SysDictData;
 /**
  * 字典表 数据层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface SysDictDataMapper
 {

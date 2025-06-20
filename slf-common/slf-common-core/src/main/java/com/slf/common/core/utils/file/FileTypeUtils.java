@@ -9,7 +9,7 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * 文件类型工具类
  *
- * @author slf
+ * @author dangfusheng
  */
 public class FileTypeUtils
 {

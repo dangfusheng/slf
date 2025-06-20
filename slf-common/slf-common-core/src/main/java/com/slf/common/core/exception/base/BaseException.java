@@ -3,7 +3,7 @@ package com.slf.common.core.exception.base;
 /**
  * 基础异常
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class BaseException extends RuntimeException
 {

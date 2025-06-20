@@ -3,7 +3,7 @@ package com.slf.common.core.enums;
 /**
  * 用户状态
  * 
- * @author slf
+ * @author dangfusheng
  */
 public enum UserStatus
 {

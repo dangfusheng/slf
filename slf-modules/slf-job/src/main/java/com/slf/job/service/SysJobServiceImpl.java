@@ -20,7 +20,7 @@ import com.slf.job.util.ScheduleUtils;
 /**
  * 定时任务调度信息 服务层
  * 
- * @author slf
+ * @author dangfusheng
  */
 @Service
 public class SysJobServiceImpl implements ISysJobService

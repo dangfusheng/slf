@@ -6,7 +6,7 @@ import com.slf.common.core.constant.Constants;
 /**
  * 响应信息主体
  *
- * @author slf
+ * @author dangfusheng
  */
 public class R<T> implements Serializable
 {

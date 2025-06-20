@@ -16,7 +16,7 @@ import com.slf.system.api.domain.SysFile;
 /**
  * 文件请求处理
  * 
- * @author slf
+ * @author dangfusheng
  */
 @RestController
 public class SysFileController

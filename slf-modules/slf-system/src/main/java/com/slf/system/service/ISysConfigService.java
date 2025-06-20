@@ -6,7 +6,7 @@ import com.slf.system.domain.SysConfig;
 /**
  * 参数配置 服务层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface ISysConfigService
 {

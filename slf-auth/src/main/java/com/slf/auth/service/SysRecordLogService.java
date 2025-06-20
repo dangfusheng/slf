@@ -12,7 +12,7 @@ import com.slf.system.api.domain.SysLogininfor;
 /**
  * 记录日志方法
  * 
- * @author slf
+ * @author dangfusheng
  */
 @Component
 public class SysRecordLogService

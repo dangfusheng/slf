@@ -7,7 +7,7 @@ import com.slf.system.api.domain.SysUser;
 /**
  * 权限信息 服务层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface ISysPermissionService
 {

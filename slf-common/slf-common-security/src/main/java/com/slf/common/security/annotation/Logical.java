@@ -3,7 +3,7 @@ package com.slf.common.security.annotation;
 /**
  * 权限注解的验证模式
  * 
- * @author slf
+ * @author dangfusheng
  *
  */
 public enum Logical

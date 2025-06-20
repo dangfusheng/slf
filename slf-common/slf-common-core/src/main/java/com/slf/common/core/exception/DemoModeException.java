@@ -3,7 +3,7 @@ package com.slf.common.core.exception;
 /**
  * 演示模式异常
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class DemoModeException extends RuntimeException
 {

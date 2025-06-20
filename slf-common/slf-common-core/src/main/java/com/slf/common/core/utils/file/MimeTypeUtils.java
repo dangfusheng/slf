@@ -3,7 +3,7 @@ package com.slf.common.core.utils.file;
 /**
  * 媒体类型工具类
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class MimeTypeUtils
 {

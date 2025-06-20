@@ -6,7 +6,7 @@ import com.slf.common.sensitive.utils.DesensitizedUtil;
 /**
  * 脱敏类型
  *
- * @author slf
+ * @author dangfusheng
  */
 public enum DesensitizedType
 {

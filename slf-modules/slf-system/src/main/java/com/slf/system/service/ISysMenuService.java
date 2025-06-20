@@ -9,7 +9,7 @@ import com.slf.system.domain.vo.TreeSelect;
 /**
  * 菜单 业务层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface ISysMenuService
 {

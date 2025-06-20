@@ -16,7 +16,7 @@ import com.slf.common.core.xss.Xss;
 /**
  * 用户对象 sys_user
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class SysUser extends BaseEntity
 {

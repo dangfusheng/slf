@@ -7,7 +7,7 @@ import com.slf.system.api.domain.SysUser;
 /**
  * 用户表 数据层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface SysUserMapper
 {

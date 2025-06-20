@@ -3,7 +3,7 @@ package com.slf.common.core.constant;
 /**
  * 缓存常量信息
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class CacheConstants
 {

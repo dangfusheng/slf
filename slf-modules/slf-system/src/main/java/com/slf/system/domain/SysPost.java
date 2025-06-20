@@ -12,7 +12,7 @@ import com.slf.common.core.web.domain.BaseEntity;
 /**
  * 岗位表 sys_post
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class SysPost extends BaseEntity
 {

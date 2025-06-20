@@ -3,7 +3,7 @@ package com.slf.common.core.exception;
 /**
  * 业务异常
  * 
- * @author slf
+ * @author dangfusheng
  */
 public final class ServiceException extends RuntimeException
 {

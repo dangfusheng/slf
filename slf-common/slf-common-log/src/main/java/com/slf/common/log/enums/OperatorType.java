@@ -3,7 +3,7 @@ package com.slf.common.log.enums;
 /**
  * 操作人类别
  * 
- * @author slf
+ * @author dangfusheng
  */
 public enum OperatorType
 {

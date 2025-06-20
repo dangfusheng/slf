@@ -11,7 +11,7 @@ import com.slf.common.core.web.domain.BaseEntity;
 /**
  * 业务表 gen_table
  * 
- * @author slf
+ * @author dangfusheng
  */
 public class GenTable extends BaseEntity
 {

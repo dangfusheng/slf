@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 /**
  * 文件服务
  * 
- * @author slf
+ * @author dangfusheng
  */
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class })
 public class FileApplication

@@ -6,7 +6,7 @@ import com.slf.common.core.utils.StringUtils;
 /**
  * 定时任务调度测试
  * 
- * @author slf
+ * @author dangfusheng
  */
 @Component("ryTask")
 public class RyTask

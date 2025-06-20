@@ -6,7 +6,7 @@ import com.slf.system.domain.SysPost;
 /**
  * 岗位信息 服务层
  * 
- * @author slf
+ * @author dangfusheng
  */
 public interface ISysPostService
 {

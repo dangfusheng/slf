@@ -27,7 +27,7 @@ import com.slf.system.api.domain.SysLogininfor;
 /**
  * 系统访问记录
  * 
- * @author slf
+ * @author dangfusheng
  */
 @RestController
 @RequestMapping("/logininfor")
