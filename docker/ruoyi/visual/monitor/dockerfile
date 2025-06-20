@@ -1,0 +1,15 @@
+# 基础镜像
+FROM  openjdk:8-jre
+# author
+MAINTAINER slf
+
+# 挂载目录
+VOLUME /home/slf
+# 创建目录
+RUN mkdir -p /home/slf
+# 指定路径
+WORKDIR /home/slf
+# 复制jar文件到路径
+COPY ./jar/slf-visual-monitor.jar /home/slf/slf-visual-monitor.jar
+# 启动系统服务
+ENTRYPOINT ["java","-jar","slf-visual-monitor.jar"]

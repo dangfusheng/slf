@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>com.slf</groupId>
+        <artifactId>slf-common</artifactId>
+        <version>3.6.6</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    
+    <artifactId>slf-common-security</artifactId>
+
+    <description>
+        slf-common-security安全模块
+    </description>
+
+    <dependencies>
+
+        <!-- Spring Web -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+        </dependency>
+
+        <!-- slf Api System -->
+        <dependency>
+            <groupId>com.slf</groupId>
+            <artifactId>slf-api-system</artifactId>
+        </dependency>
+
+        <!-- slf Common Redis-->
+        <dependency>
+            <groupId>com.slf</groupId>
+            <artifactId>slf-common-redis</artifactId>
+        </dependency>
+
+    </dependencies>
+
+</project>

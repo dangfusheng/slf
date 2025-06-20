@@ -1,0 +1,13 @@
+# 基础镜像
+FROM redis
+# author
+MAINTAINER slf
+
+# 挂载目录
+VOLUME /home/slf/redis
+# 创建目录
+RUN mkdir -p /home/slf/redis
+# 指定路径
+WORKDIR /home/slf/redis
+# 复制conf文件到路径
+COPY ./conf/redis.conf /home/slf/redis/redis.conf

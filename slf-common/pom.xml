@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>com.slf</groupId>
+        <artifactId>slf</artifactId>
+        <version>3.6.6</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <modules>
+        <module>slf-common-log</module>
+        <module>slf-common-core</module>
+        <module>slf-common-redis</module>
+        <module>slf-common-seata</module>
+        <module>slf-common-swagger</module>
+        <module>slf-common-security</module>
+        <module>slf-common-sensitive</module>
+        <module>slf-common-datascope</module>
+        <module>slf-common-datasource</module>
+    </modules>
+
+    <artifactId>slf-common</artifactId>
+    <packaging>pom</packaging>
+
+    <description>
+        slf-common通用模块
+    </description>
+
+</project>
